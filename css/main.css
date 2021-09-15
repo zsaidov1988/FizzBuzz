@@ -1,0 +1,30 @@
+
+
+.wrapper {
+  margin-top: 50px;
+}
+
+.header {
+  text-align: center;
+  font-size: 50px;
+}
+
+.result-js {
+  font-size: 18px;
+  font-weight: bold;
+  padding: 10px;
+  border-radius: 5px;
+  background-color: rgb(177, 195, 221);
+}
+
+.fizz-buzz {
+  color: rgb(19, 95, 0);
+}
+
+.fizz {
+  color: rgb(2, 0, 90);
+}
+
+.buzz {
+  color: rgb(71, 0, 65);
+}
